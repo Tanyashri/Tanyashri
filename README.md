@@ -66,6 +66,9 @@
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Tanyashri&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
 
+### Hacktoberfest Holopin Badges 🏅
+[![An image of @tanyashri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanyashri)](https://holopin.io/@tanyashri)
+
 
 
 
