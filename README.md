@@ -5,7 +5,7 @@
 ### Hey there 👋, I'm Tanyashri
 
 🌱 I'm a passionate Computer Science student.  
-🧑‍💻 I'm currently working on my University project.  
+🧑‍💻 I'm currently working on Web-dev.  
 ✨ Looking to collaborate on open-source projects and brainstorming innovative ideas.  
 📫 Feel free to reach out : tanyashrim2005@gmail.com
 
