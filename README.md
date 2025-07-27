@@ -62,6 +62,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyashri&show_icons=true&hide=stars&count_private=true&theme=tokyonight" alt="GitHub Stats" width="410" height="300"/>
 </div>
 
+### 🏆 GitHub Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Tanyashri&theme=monokai&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
+
+
 
 
 
