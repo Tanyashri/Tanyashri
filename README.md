@@ -1,14 +1,29 @@
+<div align="center">
+
+<img align="left" width="300" src="Work From Home Sticker by Kinsta.gif" />
+
+<div align="left">
+
 ### Hey there 👋, I'm Tanyashri
 
 🌱 I'm a passionate Computer Science student.  
-🔭 I'm currently working on my University project.  
-🤝 Looking to collaborate on open-source projects 
-   and brainstorming innovative ideas.  
-📬 Feel free to reach out : [tanyashrim2005@gmail.com](mailto:tanyashrim2005@gmail.com)  
+🧑‍💻 I'm currently working on my University project.  
+✨ Looking to collaborate on open-source projects and brainstorming innovative ideas.  
+📫 Feel free to reach out : tanyashrim2005@gmail.com
+
+</div>
+
+</div>
 
 
 ![](https://komarev.com/ghpvc/?username=Tanyashri&color=blue)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-m-94a74a234)
+<img width="5" />
+
 
 
 <div style="display: flex; align-items: center; gap: 50px;">
@@ -46,10 +61,6 @@
 </p>
 </div>
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-m-94a74a234)
-<img width="5" />
 
 ### 🌌 GitHub Stats
 
@@ -57,6 +68,7 @@
   <img src="Space Galaxy Sticker by Mad Men Marketing.gif" width="400" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyashri&show_icons=true&hide=stars&count_private=true&theme=tokyonight" alt="GitHub Stats" width="410" height="300"/>
 </div>
+
 
 
 
