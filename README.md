@@ -41,10 +41,6 @@
         <img width="5" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>&nbsp; 
         <img width="5" />
-    </p>
-</div>
-<p>
-  <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
         <img width="5" />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
