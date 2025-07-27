@@ -4,11 +4,10 @@
 🔭 I'm currently working on my University project.  
 🤝 Looking to collaborate on open-source projects 
    and brainstorming innovative ideas.  
-📬 Feel free to reach out : [tanyashrim2005@gmail.com](mailto:tanyashrim2005@gmail.com)
+📬 Feel free to reach out : [tanyashrim2005@gmail.com](mailto:tanyashrim2005@gmail.com)  
 
 
 ![](https://komarev.com/ghpvc/?username=Tanyashri&color=blue)  
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
