@@ -53,9 +53,10 @@
 
 ### 🌌 GitHub Stats
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250" alt="animated space tech image" />
-</p>
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://github.com/Tanyashri/Tanyashri/blob/main/hhh.mp4" width="400" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanyashri&show_icons=true&hide=stars&count_private=true&theme=tokyonight" alt="GitHub Stats" width="410" height="300"/>
+</div>
 
 
 
