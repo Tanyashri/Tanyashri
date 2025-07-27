@@ -1,0 +1,66 @@
+### Hey there 👋, I'm Tanyashri
+
+🌱 I'm a passionate Computer Science student.  
+🔭 I'm currently working on my University project.  
+🤝 Looking to collaborate on open-source projects 
+   and brainstorming innovative ideas.  
+📬 Feel free to reach out : [tanyashrim2005@gmail.com](mailto:tanyashrim2005@gmail.com)
+
+
+![](https://komarev.com/ghpvc/?username=Tanyashri&color=blue)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+<div style="display: flex; align-items: center; gap: 50px;">
+    <h3>Tech Stack 💻 </h3>
+    <p style="display: flex; gap: 15;" align="left">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="CSS" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="45" height="50"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" width="40" height="40"/>&nbsp; 
+        <img width="5" />
+    </p>
+</div>
+<p>
+  <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="Git" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+        <img width="5" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+        <img width="5" />
+
+</p>
+</div>
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanya-m-94a74a234)
+<img width="5" />
+
+### 🌌 GitHub Stats
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250" alt="animated space tech image" />
+</p>
+
+
+
+
+
+
+
+
