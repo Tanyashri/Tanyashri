@@ -8,6 +8,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Tanyashri&color=blue)  
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -54,7 +55,7 @@
 ### 🌌 GitHub Stats
 
 <div style="display: flex; align-items: center; gap: 30px;">
-  <img src="https://github.com/Tanyashri/Tanyashri/blob/main/hhh.mp4" width="400" style="margin-right: 10px;">
+  <img src="Space Galaxy Sticker by Mad Men Marketing.gif" width="400" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanyashri&show_icons=true&hide=stars&count_private=true&theme=tokyonight" alt="GitHub Stats" width="410" height="300"/>
 </div>
 
