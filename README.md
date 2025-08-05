@@ -32,7 +32,7 @@
           <td><strong>🔧 CI/CD Tools</strong></td>
           <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" />
             <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" />
           </td>
         </tr>
@@ -61,14 +61,14 @@
           <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
             <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"" width="50" />
           </td>
         </tr>
         <tr>
           <td><strong>🛠️ Others</strong></td>
           <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="50" />
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canva_Logo_2021.svg" width="50" />
+            <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
           </td>
@@ -117,6 +117,10 @@
 <!-- 🧠 Dynamic Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Happy+Building+and+Innovating!;Let's+connect+and+collaborate." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=100&section=footer&" alt="Footer Banner"/>
 </p>
 
 
