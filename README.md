@@ -8,7 +8,7 @@
 
 ### 👋 About Me
 🌱 I'm a passionate Computer Science student.  
-🧑‍💻 I'm currently working on Web-dev.  
+🧑‍💻 I'm currently working on ML.  
 ✨ Looking to collaborate on open-source projects and brainstorming innovative ideas.  
 
 </div>
